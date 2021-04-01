@@ -2,3 +2,6 @@
 
 /target/
 /nbproject/
+# files to be ignored by git.
+ /nbproject/
+/target/
