@@ -7,8 +7,39 @@ package za.ac.cput.adp2_prjct_group8;
 
 /**
  *
- * @author CPUT
+ * @author Gilberto_Silva_218239300
  */
 public class Main {
+    
+    private String id,name, accountType;
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getAccountType() {
+        return accountType;
+    }
+
+    public void setAccountType(String accountType) {
+        this.accountType = accountType;
+    }
+
+    @Override
+    public String toString() {
+        return "Main{" + "id=" + id + ", name=" + name + ", accountType=" + accountType + '}';
+    }
     
 }
