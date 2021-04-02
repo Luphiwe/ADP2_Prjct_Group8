@@ -15,7 +15,7 @@ import org.junit.Ignore;
 
 /**
  *
- * @author 27627
+ * @author Mongameli Shasha - 219181527
  */
 public class SoccerPlayerTest {
     

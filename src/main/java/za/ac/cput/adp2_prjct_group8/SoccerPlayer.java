@@ -7,7 +7,7 @@ package za.ac.cput.adp2_prjct_group8;
 
 /**
  *
- * @author 27627
+ * @author Mongameli Shasha - 219181527
  */
 public class SoccerPlayer {
     
