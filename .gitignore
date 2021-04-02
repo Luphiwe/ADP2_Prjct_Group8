@@ -1,7 +1,8 @@
 # files to be ignored by git and netbeans.
+# files to be ignored by git.
+
 
 /target/
 /nbproject/
-# files to be ignored by git.
  /nbproject/
 /target/
